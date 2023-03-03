@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ConferenceDialog Component renders correctly 1`] = `null`;
+
+exports[`ConferenceDialog Component renders correctly if isOpen is true 1`] = `null`;

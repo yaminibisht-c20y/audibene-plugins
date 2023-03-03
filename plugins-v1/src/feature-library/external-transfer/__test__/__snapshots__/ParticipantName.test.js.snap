@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ParticipantName Component renders correctly 1`] = `
+<div
+  className="ParticipantCanvas-Name css-2sxfea"
+>
+  unknown
+</div>
+`;
+
+exports[`ParticipantName Component renders correctly if listMode is true 1`] = `
+<div
+  className="ParticipantCanvas-Name css-1a0arli"
+>
+  unknown
+</div>
+`;

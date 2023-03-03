@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test ParticipantActionsButtons component component should render successfully 1`] = `ShallowWrapper {}`;
+
+exports[`test ParticipantActionsButtons component component should render successfully in teams view 1`] = `ShallowWrapper {}`;
